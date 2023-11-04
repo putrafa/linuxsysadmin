@@ -67,3 +67,48 @@ Men-deploy sumber daya on-premise, dengan menggunakan alat manajemen sumber daya
 - Amazon Elastic Block Store (Amazon EBS), Amazon Elastic File System (Amazon EFS), Amazon Simple Storage Service (Amazon S3), dan Amazon Relational Database Service (Amazon RDS) mirip dengan penyimpanan terpasang langsung (DAS), jaringan area penyimpanan (SAN), penyimpanan terpasang jaringan (NAS), dan layanan manajemen basis data relasional (RDBMS).
 
   
+# Keuntungan Komputasi Cloud
+
+- Perdagangan Pengeluaran Modal Untuk Biaya Variabet
+- Mendapatkan Manfaat dari Skala Ekonomi Masif
+- Tidak Perlu Menebak-nebak Kapasitas
+- Meningkatkan Kecepatan dan Ketangkasan
+- Berhenti Menghabiskan Uang Untuk Menjalankan dan Memelihara Pusat Data
+- Menjangkau Dunia Global Dalam Hitungan Menit
+
+
+# Pengantar Amazon Web Service(AWS)
+
+Secara umum, layanan web adalah setiap bagian dari perangkat lunak yang membuatnya tersedia melalui internet atau pada jaringan pribadi (intranet). Sebuah layanan web menggunakan format standar—seperti Extensible Markup Language (XML) atau JavaScript Object Notation (JSON)—untuk permintaan dan respons interaksi antarmuka pemrograman aplikasi (API). Layanan ini tidak terikat pada salah satu sistem operasi atau bahasa pemrograman. Layanan ini menggambarkan diri sendiri melalui file definisi antarmuka dan itu dapat ditemukan.
+
+![Pengertian AWS](https://github.com/putrafa/linuxsysadmin/assets/121589476/c78cf68d-121a-429d-880c-5318c75ed342)
+
+![Kategori Layanan AWS](https://github.com/putrafa/linuxsysadmin/assets/121589476/154cdd64-0faf-4434-b6d8-aab13f56c17e)
+
+Berikut adalah beberapa penawaran komputasi AWS lain yang bisa Anda pilih untuk digunakan dalam contoh kasus penggunaan berikut:
+
+- Amazon EC2: Anda ingin kontrol penuh atas sumber daya komputasi AWS Anda.
+
+- AWS Lambda: Anda ingin menjalankan kode Anda dan tidak mengelola dan menyediakan server.
+
+- AWS Elastic Beanstalk: Anda ingin layanan yang men-deploy, mengelola, dan menskalakan aplikasi web untuk Anda.
+ 
+- Amazon Lightsail: Anda membutuhkan platform cloud ringan untuk aplikasi web sederhana.
+
+- AWS Batch: Anda perlu menjalankan ratusan ribu batch beban kerja.
+
+- AWS Outposts: Anda ingin menjalankan infrastruktur AWS di pusat data on-premise Anda.
+
+- Layanan Amazon Elastic Container(Amazon ECS), Amazon Elastic Kubernetes Service(Amazon EKS), atau AWS Fargate: Anda ingin menerapkan kontainer atau arsitektur layanan mikro.
+
+- VMware Cloud on AWS: Anda memiliki platform virtualisasi server on-premise yang ingin Anda migrasikan ke AWS.
+
+![Layanan yang Tercakup Dalam Kurus](https://github.com/putrafa/linuxsysadmin/assets/121589476/96ad27c1-40cf-4576-b3ca-46d2e6d1fd47)
+
+## Cara Berinteraksi dengan AWS
+
+- AWS Management Console: Konsol tersebut menyediakan grafis antar muka yang kaya untuk mayoritas fitur yang ditawarkan AWS. (Catatan: Dari waktu ke waktu, fitur-fitur baru mungkin tidak memiliki semua kemampuan yang dimasukkan ke konsol tersebut ketika fitur awalnya diluncurkan.)
+
+- AWS Command Line Interface (AWS CLI):AWS CLI menyediakan rangkaian utilitas yang dapat diluncurkan dari skrip perintah di Linux, macOS, atau Microsoft Windows.
+
+- Kit pengembangan perangkat lunak (SDK):AWS menyediakan paket yang memungkinkan mengakses AWS dalam berbagai macam bahasa pemrograman populer. Ini tidak hanya membuat AWS mudah digunakan di aplikasi yang sudah ada, tetapi juga memungkinkan pembuatan aplikasi untuk men-deploy dan memantau seluruh sistem yang kompleks melalui kode.
