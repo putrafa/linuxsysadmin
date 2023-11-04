@@ -18,7 +18,7 @@ My goal is to learn and want to know more about cloud and other IT stuff and get
 - [ ] ☁️ 1 > [Konsep Cloud Bagian 1-3](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Konsep Cloud Bagian 4](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Ekonomi dan Penagihan Cloud](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 4 > [Infrastruktur Global AWS](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
